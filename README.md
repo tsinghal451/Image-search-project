@@ -37,13 +37,13 @@ Follow these steps to get started with the Image Search project:
 
 2. Open index.html in your preferred web browser.
    
-   **Usage**
+## Usage
    
 1. Open the project in a web browser.
 2. Enter a search query in the provided input field.
 3. Press the "Search" button to fetch and display images related to the query.
 
-  ## Configuration
+## Configuration
 
 Before running the project, you need to obtain an API key from Unsplash. Follow these steps:
 
