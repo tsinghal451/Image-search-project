@@ -1,5 +1,3 @@
-# Image-search-project
-
 # Image Search Project
 
 ## Overview
@@ -36,3 +34,28 @@ Follow these steps to get started with the Image Search project:
 
    ```bash
    git clone https://github.com/your-username/image-search-project.git
+
+2. Open index.html in your preferred web browser.
+   
+   **Usage**
+1. Open the project in a web browser.
+2. Enter a search query in the provided input field.
+3. Press the "Search" button to fetch and display images related to the query.
+
+   **Configuration**
+   Before running the project, make sure to obtain an API key from Unsplash:
+1. Visit Unsplash Developer and create an account.
+2. Create a new application to obtain your API key.
+3. Replace YOUR_UNSPLASH_API_KEY in the script.js file with your actual API key.
+    ```bash
+    const acceskey = 'YOUR_UNSPLASH_API_KEY';
+
+  **Acknowledments**
+
+  Unsplash for providing the image search API.
+  
+  **Author**
+  Tushar Singhal
+  
+   
+
