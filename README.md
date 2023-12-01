@@ -62,12 +62,13 @@ Before running the project, you need to obtain an API key from Unsplash. Follow 
    ```javascript
    const acceskey = 'YOUR_UNSPLASH_API_KEY';
 
-  **Acknowledments**
+## Acknowledments
 
   Unsplash for providing the image search API.
   
-  **Author**
-  Tushar Singhal
+## Author
+
+  **Tushar Singhal**
   
    
 
