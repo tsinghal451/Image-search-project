@@ -33,7 +33,7 @@ Follow these steps to get started with the Image Search project:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/image-search-project.git
+   git clone https://github.com/tsinghal451/Image-search-project.git
 
 2. Open index.html in your preferred web browser.
    
